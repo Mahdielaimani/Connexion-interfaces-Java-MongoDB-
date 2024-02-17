@@ -1,1 +1,1 @@
-final artcile =100;
+final artcile =500;
